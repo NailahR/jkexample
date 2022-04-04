@@ -35,5 +35,13 @@ __this is bold too__
 
 -----
 
+html links
 <a href="http://google.com">Google</a>
+
+markdown links
 [Google](http://google.com)
+
+images in markdown
+![dog playing with a ball](images/dog.webp)
+
+
