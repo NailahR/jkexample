@@ -33,4 +33,7 @@ __this is bold too__
 2. numbered 2
 3. numbered 3
 
+-----
 
+<a href="http://google.com">Google</a>
+[Google](http://google.com)
