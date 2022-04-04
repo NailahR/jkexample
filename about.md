@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About us
-description: 
+description: List of the team members
 ---
 
-#About Us
+# About Us
