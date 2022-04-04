@@ -1,1 +1,13 @@
+{{site.title}}
+
 theme: jekyll-theme-minimal
+url: https://nailahr.github.io/
+
+baseurl: /jkexample/
+title: Test Jekyll site 
+description: My first Jekyll site
+
+#custom variable creation
+instagram: "https://instagram.com/username"
+[instagram]{{page.instagram}}
+
